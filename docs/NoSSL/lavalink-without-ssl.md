@@ -35,14 +35,6 @@ Password : "youshallnotpass"
 Secure : false    
 ```
 
-Version 3.7.13 | [DuncteBot](https://github.com/DuncteBot/skybot-lavalink-plugin), [lavasrc](https://github.com/topi314/LavaSrc), [youtube](https://github.com/lavalink-devs/youtube-source#plugin)
-```bash
-Host : lavalink.jirayu.net
-Port : 2334
-Password : "youshallnotpass"
-Secure : false    
-```
-
 ### Hosted by @ [hatry4/naig](https://charlesnaig.github.io/)
 Version 4.0.8 Plugins: youtube-plugin:1.8.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, sponsorblock-plugin:3.0.1, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, jiosaavn-plugin:v1.0.2 and Spotify API
 ```bash
@@ -153,8 +145,8 @@ Password : "iknowwhy"
 Secure : false
 ```
 
-### Hosted by @ [AnantiX Network](https://github.com/AnantiX)
-If you need help of something please contact me on [discord](https://discord.gg/9GjwHBZCxy) <br />
+### Hosted by @ [Anantix Network](https://www.anantix.network/en)
+If you need help of something please contact me on [discord](https://discord.gg/anantix) <br />
 Version 4.0.8 | salee-plugin | Lavalink Build by [Jirayu](https://jirayu.net)
 ```bash
 Host : lavalink.anantix.network 
@@ -170,4 +162,33 @@ Host : 45.89.99.118
 Port : 8000
 Password : "winkle@team"
 Secure : false    
+```
+### Hosted by @ [Nextgen Coders](https://discord.gg/9J9X4fzhSt) | [uptime](https://node.nextgencoders.xyz)
+Version 4.0.8 | Lavalink by [mahaaranii](https://discord.gg/9J9X4fzhSt)
+```bash
+Host : lava-v4.nextgencoders.xyz 
+Port : 2333
+Password : "freemenahimilta"
+Secure : false
+```
+
+### Hosted by @ [Diva Host](https://discord.gg/divahost)
+![playersv4](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Players) ・ ![Online](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Status) ・ ![Load](https://lavalink-list-api.ajieblogs.eu.org/diva-hosting-free/badge/Load)
+Version 4.0.8 | Lavalink by [greg](https://discord.gg/pMJCfv3VXB) Plugins: youtube-plugin:1.11.3, lavalyrics-plugin:1.0.0, lavasrc-plugin:4.2.0, lavasearch-plugin:1.0.0, skybot-lavalink-plugin:1.7.0, java-lyrics-plugin:1.6.5, lava-xm:0.2.5
+```bash
+Host: lavalink.divahost.net
+Port: 60002
+Password: divahostv4
+Secure: false
+```
+
+
+### Hosted by @ [Catfein](https://discord.gg/5DQ7XWK5Hy) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/)
+Version 4.0.8 | Lavalink by [JAnimeREACTS](https://discord.gg/Kzc7yCy9uY) Plugins: youtube-plugin:1.11.3, lavasrc-plugin:4.3.0, skybot-lavalink-plugin:1.7.0, sponsorblock-plugin:3.0.1
+**REMINDER:** <span style="color:red;">You must have a v4 client to connect to this lavalink!</span>
+```bash
+Host: 109.176.17.107
+Port: 20003
+Password: jmlitev4
+Secure: false
 ```
